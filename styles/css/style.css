@@ -1,2 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;400;600&display=swap");
 /*font-family: 'Nunito Sans', sans-serif;*/
+
+/*Header*/
+.nav-bar {
+  background-color: rgb(223, 143, 23);
+  justify-content: space-between;
+}
