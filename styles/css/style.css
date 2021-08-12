@@ -3,6 +3,7 @@
 
 /*Header*/
 header {
+  font-family: "Nunito Sans", sans-serif;
   font-size: 1.6rem;
 }
 .nav-bar {
@@ -11,7 +12,8 @@ header {
   justify-content: space-between;
   align-items: center;
   padding-left: 30px;
-  padding-right: 10px;
+  padding-right: 20px;
+  padding-top: 15px;
 }
 
 .header-items {
