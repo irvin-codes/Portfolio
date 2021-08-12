@@ -4,5 +4,14 @@
 /*Header*/
 .nav-bar {
   background-color: rgb(223, 143, 23);
+  height: 10vh;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 10px;
+}
+
+.header-items {
+  width: 40%;
   justify-content: space-between;
 }
